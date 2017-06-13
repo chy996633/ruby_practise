@@ -11,5 +11,5 @@ Planting our flag on Halley's
 More still did I want to eat it.
 "
 
-print poem.lines.to_a.reverse
+print poem.lines.to_a.reverse.join
 
